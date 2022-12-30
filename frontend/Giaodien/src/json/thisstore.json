@@ -1,0 +1,45 @@
+
+ [  {
+        "STT": 1,
+        "place_code": "66880101",
+        "store_name": "Lamborghini Hanoi",
+        "address": "83 Trần Quang Khải, Hà Nội "
+    },
+    {
+        "STT": "2",
+        "place_code": "66880102",
+        "store_name": "Lamborghini Tp.HCM",
+        "address": "76 Ngô Quyền, Tp.HCM "
+    },
+    {
+        "STT": "3",
+        "place_code": "66880103",
+        "store_name": "Lexus Hai Phong",
+        "address": "47 Trần Duy Hưng, tp. Hải Phòng "
+    },
+    {
+        "STT": "4",
+        "place_code": "66880104",
+        "store_name": "Lexus Hanoi",
+        "address": "45 Cầu Giấy, Hà Nội "
+    },
+    {
+        "STT": "5",
+        "place_code": "66880105",
+        "store_name": "Lexus Tp.HCM",
+        "address": "89 Tản Đà, Quận 1, tp.HCM "
+    },
+    {
+        "STT": "6",
+        "place_code": "66880106",
+        "store_name": "Mecesdes Hanoi",
+        "address": "923 Láng, Đống Đa, Hà Nội "
+    },
+    {
+        "STT": "7",
+        "place_code": "66880107",
+        "store_name": "Mecesdes Tp.HCM",
+        "address": "65 Phùng Hưng, Quận 5, tp.HCM"
+    }
+    
+]
